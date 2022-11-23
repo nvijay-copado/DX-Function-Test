@@ -6,6 +6,13 @@
             "package": "Hell5",
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT"
+        },
+        {
+            "path": "force-app",
+            "package": "Hell6",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
         }
     ],
     "name": "Dx Function test",
@@ -13,6 +20,7 @@
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "55.0",
     "packageAliases": {
-        "Hell5": "0Ho5i000000PBDkCAO"
+        "Hell5": "0Ho5i000000PBDkCAO",
+        "Hell6": "0Ho5i000000PBDpCAO"
     }
 }
