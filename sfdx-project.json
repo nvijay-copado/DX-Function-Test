@@ -13,6 +13,13 @@
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT",
             "default": false
+        },
+        {
+            "path": "force-app",
+            "package": " zfnkhokjrieobjapvnqn",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
         }
     ],
     "name": "Dx Function test",
@@ -21,6 +28,7 @@
     "sourceApiVersion": "55.0",
     "packageAliases": {
         "Hell5": "0Ho5i000000PBDkCAO",
-        "Hell6": "0Ho5i000000PBDpCAO"
+        "Hell6": "0Ho5i000000PBDpCAO",
+        " zfnkhokjrieobjapvnqn": "0Ho5i000000PBDzCAO"
     }
 }
