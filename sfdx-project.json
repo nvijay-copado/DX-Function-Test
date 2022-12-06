@@ -363,6 +363,13 @@
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT",
             "default": false
+        },
+        {
+            "path": "force-app",
+            "package": "6Dec",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
         }
     ],
     "name": "Dx Function test",
@@ -421,6 +428,7 @@
         "uboneprqqemitotacvwq": "0Ho5i000000PBIGCA4",
         "jwwamiklnebvdacxrkmg": "0Ho5i000000PBIVCA4",
         "rvpdtykoyivilggkyjdq": "0Ho5i000000PBIaCAO",
-        "emqtbqgfbcocfpamzons": "0Ho5i000000PBIkCAO"
+        "emqtbqgfbcocfpamzons": "0Ho5i000000PBIkCAO",
+        "6Dec": "0Ho5i000000PBIzCAO"
     }
 }
