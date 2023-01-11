@@ -376,7 +376,8 @@
             "package": "19Dec",
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT",
-            "default": false
+            "default": false,
+            "ancestorVersion": "Test version"
         }
     ],
     "name": "Dx Function test",
